@@ -1,6 +1,4 @@
-Here’s the same **short, clean format** for your OpenAI API project:
-
-# OpenAI API Call using Python
+# OpenAI API Call
 
 A simple Python project demonstrating how to make an API call to OpenAI and generate an AI response.
 
@@ -12,6 +10,18 @@ A simple Python project demonstrating how to make an API call to OpenAI and gene
 * OpenAI API
 
 ## Setup
+
+Create a virtual environment:
+
+```bash
+python -m venv venv
+```
+
+Activate it on Windows:
+
+```powershell
+.\venv\Scripts\Activate.ps1
+```
 
 Install the required packages:
 
